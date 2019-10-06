@@ -7,6 +7,7 @@ There is limited undo ability and no Save As feature, so it would be a good idea
 
 Playbook Editor -
 
+You need a customplaybooks.db file.  Use Frosty to export customplaybooks.db Menu>Legacy>common>database>playbooks>customplaybooks.
 Open a customplaybooks.DB file from the file menu and a dropdown will appear with a list of formations.  All formations are listed together and will draw correctly, but only Offensive plays are drawn and able to be edited and saved.
 
 Select a Formation to show Sub-Formations and list all plays in the Sub-Formation.  The play will be drawn along with a list of player assignments which can be edited.
