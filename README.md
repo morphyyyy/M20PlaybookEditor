@@ -23,7 +23,7 @@ The Route Visualizer tool exists in the tools menu and currently only works with
 
 
 
-V1.06 - Formation Alignments, Flip Play, Formation Edits
+V1.06 - Formation Alignments, Flip Play, Formation (Alignments and Positions) Edits
 -
 
 Formation Alignments -
