@@ -22,7 +22,7 @@ Route Visualizer -
 The Route Visualizer tool exists in the tools menu and currently only works with the provided csv.  It can draw and save routes one at a time, or save more than one route by selecting multiple groups of ID steps and selecting save all from the menu.
 
 
--
+
 V1.06 - Formation Alignments, Flip Play, Formation Edits
 -
 
