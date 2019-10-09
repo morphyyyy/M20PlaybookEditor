@@ -38,3 +38,4 @@ Formation Edits -
 Added the ability to edit/save Formations
 -STEP table
 -STEG table
+Motions can also be edited.  Pick the motion that you want to edit in the Motions/Alignments dropdown, then click the Edit Formation button.  The inactive records (player assignments) for that motion/alignment will be disabled.  The remaining active rows are the players that account for that motion/alignment.  For example, M1le is motion player 1 to the left.  When the play is flipped the active offset is fx__, fy__ and x___, y___ when the play is not flipped.
