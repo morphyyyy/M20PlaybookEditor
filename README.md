@@ -6,7 +6,7 @@ There is limited undo ability and no Save As feature, so it would be a good idea
 
 
 Playbook Editor
----
+-
 You need a customplaybooks.db file.  Use Frosty to export customplaybooks.db Menu>Legacy>common>database>playbooks>customplaybooks.
 Open a customplaybooks.DB file from the file menu and a dropdown will appear with a list of formations.  All formations are listed together and will draw correctly, but only Offensive plays are drawn and able to be edited and saved.
 
@@ -18,13 +18,12 @@ Play data such as the play name can also be edited by clicking the button next t
 
 
 Route Visualizer
----
+-
 The Route Visualizer tool exists in the tools menu and currently only works with the provided csv.  It can draw and save routes one at a time, or save more than one route by selecting multiple groups of ID steps and selecting save all from the menu.
 
 
 
-V1.06 - Formation Alignments, Flip Play, Formation (Alignment and Position) Edits
--
+# V1.06 - Formation Alignments, Flip Play, Formation (Alignment and Position) Edits
 
 Formation Alignments
 --
