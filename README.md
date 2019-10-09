@@ -20,3 +20,21 @@ Play data such as the play name can also be edited by clicking the button next t
 Route Visualizer -
 
 The Route Visualizer tool exists in the tools menu and currently only works with the provided csv.  It can draw and save routes one at a time, or save more than one route by selecting multiple groups of ID steps and selecting save all from the menu.
+
+
+-
+V1.06 - Formation Alignments, Flip Play, Formation Edits
+-
+
+Formation Alignments -
+
+Added the Formation Alignments and motions.  They are listed in the Motion/Alignments dropdown.  This will update in the Playart preview.
+*** Routes will not flip as they do in game; i.e. flat routes
+
+Flip Play -
+Added the ability to flip the play
+
+Formation Edits -
+Added the ability to edit/save Formations
+-STEP table
+-STEG table
