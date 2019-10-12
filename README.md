@@ -21,7 +21,19 @@ Route Visualizer
 -
 The Route Visualizer tool exists in the tools menu and currently only works with the provided csv.  It can draw and save routes one at a time, or save more than one route by selecting multiple groups of ID steps and selecting save all from the menu.
 
+# v1.07 - Defensive Edits, Playart Option, Player Assignment List
 
+Defensive Edits
+-
+Added support to edit and save Defensive Assignments and Defensive Play edits to the db.  Edit Play now populates with SRFT table that can be edited and saved.
+
+Playart Option
+-
+Playart can be drawn with raw data or with the Playart from Menu>Tools>Playart.  Still a WIP but good enough to view Defense as the Defensive raw data is incomplete at the moment.
+
+Player Assignment List
+-
+Right-clicking the Player Assignment Table now populates with a Data Grid of the current assignment, along with a list of assignments to choose from.
 
 # v1.06 - Formation Alignments, Flip Play, Formation (Alignment and Position) Edits
 
