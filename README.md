@@ -23,7 +23,7 @@ The Route Visualizer tool exists in the tools menu and currently only works with
 
 # v1.08 - Devensive Playart Update
 
-Defensive Playart is 98% complete if not 100% accurate. (ARTL)
+Defensive Playart is 99% complete if not 100% accurate. (ARTL)
 
 # v1.07 - Defensive Edits, Playart Option, Player Assignment List
 
