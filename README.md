@@ -25,6 +25,8 @@ The Route Visualizer tool exists in the tools menu and currently only works with
 
 Defensive Playart is 99% complete if not 100% accurate. (ARTL)
 
+Playart can be saved by right-clicking the playart.
+
 # v1.07 - Defensive Edits, Playart Option, Player Assignment List
 
 Defensive Edits
