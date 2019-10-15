@@ -25,7 +25,7 @@ The Route Visualizer tool exists in the tools menu and currently only works with
 
 Edit PSAL
 -
-Added the ability to edit existing PSALs.  Right-Click on the Player Assignment Table and select Swap/Edit PSAL.  A new window will open with where new PSALs can be assigned.  Click the Edit checkbox to edit the current PSAL.  Right-Click a cell to Insert/Delete steps.  (WARNING - PSALs exist in multiple plays, so edit with caution)
+Added the ability to edit existing PSALs.  Right-Click on the Player Assignment Table and select Swap/Edit PSAL.  A new window will open where new PSALs can be assigned.  Click the Edit checkbox to edit the current PSAL.  Right-Click a cell to Insert/Delete steps.  (WARNING - PSALs exist in multiple plays, so edit with caution)
 
 Create PSAL
 -
