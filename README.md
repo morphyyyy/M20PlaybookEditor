@@ -27,6 +27,8 @@ Edit Psal
 -
 Added the ability to edit existing PSALs.  Right-Click on the Player Assignment Table and select Swap/Edit PSAL.  A new window will open with where new PSALs can be assigned.  Click the Edit checkbox to edit the current PSAL.  Right-Click a cell to Insert/Delete steps.  (WARNING - PSALs exist in multiple plays, so edit with caution)
 
+Create PSAL
+-
 Added an option to create a new PSAL.  Select a Player Assignment in the Player Assignment Table to use as a base for the new PSAL.  Right-Click on the Player Assignment Table and select Create New PSAL.  A new Window will open with the steps from the default PSAL.  Right-Click a cell to Insert/Delete steps and/or manually edit the PSAL by entering data into the cells of the table.  When finished, click the Create button to create the new PSAL.  Uncheck the 'Assign PSAL to Selected poso' checkbox to create the PSAL without assigning it, or leave the box checked to create and assign the PSAL.  Unassigned newly created PSALs will show in the Unused PSALs PLRR list in the Swap/Edit PSAL window.
 
 # v1.08 - Devensive Playart Update
