@@ -25,8 +25,8 @@ The Route Visualizer tool exists in the tools menu and currently only works with
 
 Playart Update
 -
-Offensive Playart draws in proper order now.  I.E. Running, Primary reciever, Delay Route and Motion Route, Blocking.
-Defensive Playart draws in proper order now.  I.E. Flat, Hook, Deep Zone and Rush/Blitz.
+Offensive Playart draws in proper order now.  I.E. Blocking, QB, Base Routes, Primary Receiver, Delay Route and Motion Route, then Running.
+Defensive Playart draws in proper order now.  I.E. Rush/Blitz, Deep Zone, Hook then Flat.
 
 Edit Sub-Formation (SETL)
 -
