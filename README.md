@@ -21,6 +21,12 @@ Route Visualizer
 -
 The Route Visualizer tool exists in the tools menu and currently only works with the provided csv.  It can draw and save routes one at a time, or save more than one route by selecting multiple groups of ID steps and selecting save all from the menu.
 
+# v1.11 - Playart Update
+
+Playart Update
+-
+Option Routes and Play-Action Blocking now draw correctly in ARTL Playart.
+
 # v1.10 - Playart Update, Edit Sub-Formation (SETL), Add/Remove PLPD and PLRD, Add/Remove SRFT
 
 Playart Update
