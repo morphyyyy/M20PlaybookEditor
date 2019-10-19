@@ -21,6 +21,25 @@ Route Visualizer
 -
 The Route Visualizer tool exists in the tools menu and currently only works with the provided csv.  It can draw and save routes one at a time, or save more than one route by selecting multiple groups of ID steps and selecting save all from the menu.
 
+# v1.10 - Playart Update, Edit Sub-Formation (SETL), Add/Remove PLPD and PLRD, Add/Remove SRFT
+
+Playart Update
+-
+Offensive Playart draws in proper order now.  I.E. Running, Primary reciever, Delay Route and Motion Route, Blocking.
+Defensive Playart draws in proper order now.  I.E. Flat, Hook, Deep Zone and Rush/Blitz.
+
+Edit Sub-Formation (SETL)
+-
+Added the ability to edit SETL (Sub-Formation) name, MOTN, CLAS, SETT, SITT, SLF_ (determines the defensive set) and poso.
+
+Add/Remove PLPD and PLRD
+-
+Added the ability to add or remove PLPD records in Edit Play, under Options menu.
+
+Add/Remove SRFT
+-
+Added the ability to add or remove SRFT records.
+
 # v1.09 - Edit and Create PSAL
 
 Edit PSAL
