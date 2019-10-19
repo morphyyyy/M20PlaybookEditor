@@ -34,7 +34,7 @@ Added the ability to edit SETL (Sub-Formation) name, MOTN, CLAS, SETT, SITT, SLF
 
 Add/Remove PLPD and PLRD
 -
-Added the ability to add or remove PLPD records in Edit Play, under Options menu.
+Added the ability to add or remove PLPD/PLRD records in Edit Play, under Options menu.
 
 Add/Remove SRFT
 -
