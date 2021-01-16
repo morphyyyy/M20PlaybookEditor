@@ -24,7 +24,7 @@ The Route Visualizer tool exists in the tools menu and currently only works with
 # v1.14 - Copy/Paste PSAL
 
 -
-Added copy and paste to PSAL Assignment Table.  Copies and pastes all 11 PLYS entries. 
+Added copy and paste to PSAL Assignment Table.  Copies and pastes selected player PLYS rows. 
 
 # v1.11 - Playart Update
 
