@@ -21,6 +21,12 @@ Route Visualizer
 -
 The Route Visualizer tool exists in the tools menu and currently only works with the provided csv.  It can draw and save routes one at a time, or save more than one route by selecting multiple groups of ID steps and selecting save all from the menu.
 
+# v1.20 - Copy Entire Play to Team Playbook Editor
+
+Right-Click Play name and click copy.
+
+https://github.com/morphyyyy/Madden-20-Team-Playbook-Editor
+
 # v1.14 - Copy/Paste PSAL
 
 -
