@@ -23,7 +23,7 @@ The Route Visualizer tool exists in the tools menu and currently only works with
 
 # v1.20 - Copy Entire Play to Team Playbook Editor
 
-Right-Click Play name and click copy.
+Supports Copy/Paste to Custom Playbook Editor
 
 https://github.com/morphyyyy/Madden-20-Team-Playbook-Editor
 
