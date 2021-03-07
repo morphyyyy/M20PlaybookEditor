@@ -21,6 +21,11 @@ Route Visualizer
 -
 The Route Visualizer tool exists in the tools menu and currently only works with the provided csv.  It can draw and save routes one at a time, or save more than one route by selecting multiple groups of ID steps and selecting save all from the menu.
 
+# v1.31 - Add/Remove SETG Motion Alignments
+
+Motions accessible in options>Playart>PSAL
+Edit Formation > Right-Clight a player row in the SETG Alignment tab to add or remove from motion
+
 # v1.21 - Code 58 and PLYL search
 
 Search for Code 58 copies all code 58 data to clipboard in csv format
