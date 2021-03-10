@@ -23,6 +23,8 @@ The Route Visualizer tool exists in the tools menu and currently only works with
 
 # v1.32 - Copy/Paste entire Formation, Sub-Formations and Plays from CPB to TPB
 
+Copy is a little slow.  Let is cycle through all the Formations and Plays before pasting.
+
 # v1.32 - Bug Fixes with Copy/Paste from CPB to TPB
 
 # v1.31 - Add/Remove SETG Motion Alignments
