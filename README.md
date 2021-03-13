@@ -1,8 +1,8 @@
 # Madden 20 - Custom Playbook Editor
 
-This playbook editor currently only supports custom playbooks.  It is in beta state with limited functionality, so bugs are possible, but it is relatively stable.
+Only supports custom playbook db files.
 
-There is limited undo ability and no Save As feature, so it would be a good idea to create backups before editing.
+There is limited undo ability and no Save As feature, so it would be a good idea to create backup playbook before editing.
 
 
 Playbook Editor
