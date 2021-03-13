@@ -21,7 +21,12 @@ Route Visualizer
 -
 The Route Visualizer tool exists in the tools menu and currently only works with the provided csv.  It can draw and save routes one at a time, or save more than one route by selecting multiple groups of ID steps and selecting save all from the menu.
 
-# v1.32 - Copy/Paste entire Formation, Sub-Formations and Plays from CPB to TPB
+# v1.34 - Custom Route Colors
+
+Available in PLYS table context menu
+Doesn't stick or save
+
+# v1.33 - Copy/Paste entire Formation, Sub-Formations and Plays from CPB to TPB
 
 Copy is a little slow.  Let is cycle through all the Formations and Plays before pasting.
 
