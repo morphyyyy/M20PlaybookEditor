@@ -1,4 +1,4 @@
-# M20PlaybookEditor
+# Madden 20 - Custom Playbook Editor
 
 This playbook editor currently only supports custom playbooks.  It is in beta state with limited functionality, so bugs are possible, but it is relatively stable.
 
