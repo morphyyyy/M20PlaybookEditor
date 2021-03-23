@@ -21,6 +21,8 @@ Route Visualizer
 -
 The Route Visualizer tool exists in the tools menu and currently only works with the provided csv.  It can draw and save routes one at a time, or save more than one route by selecting multiple groups of ID steps and selecting save all from the menu.
 
+# v1.35 - Fixed a bug that prevented PBFM from copying to Team Playbooks
+
 # v1.34 - Custom Route Colors
 
 Available in PLYS table context menu
